@@ -1,0 +1,18 @@
+----- 09/04/2020 14:38:44 - Gogo Aurora (127.0.0.1) -----
+Debug Assertion 1100 SysInc.cpp 59
+Fri Oct 25 11:27:02 2019
+Graphic Engine: DirectX9 (2)
+Operating System: Windows Vista Family in BRA
+Processor: Intel Core i5 -5200U @ 
+Video Card: Intel (R) HD GR
+Last Packet Types: 130 029 030 029 130 029 030 029 130 029
+Last Packet: 130 089 215 000 000 000 000 000 000 000 000 000 000 000 000 000
+Player Position: [33214,32458,8]
+Player Name: Pally Noia Master (Dibra)
+Player Action: 048 046 048 046 048 046 048 058 055 049 055 050
+Player.cpp 344: exception occurred, reason:
+MainFrm.cpp 530: exception occurred (nIDEvent = 1), reason:
+Control.cpp 1693: exception occurred, reason:
+Talk.cpp 705: exception occurred (i = 0), reason:
+SysInc.cpp 59: Tibia was running too long
+Comment: 
