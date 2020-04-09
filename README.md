@@ -88,25 +88,6 @@ Our system can be compiled on a variety of operating systems. We currently provi
     </tbody>
 </table>
 
-<h2>Websites</h2>
-
-by [Gustavo Girardon](http://github.com/gutogirardon) -> [Download here](https://github.com/gutogirardon/Elderia-Global-Gesior/archive/master.zip)
-
-by [Leonardo Pereira](http://github.com/jlcvp) -> [Download here](https://github.com/jlcvp/GesiorMonteiro/archive/master.zip)
-
-by [Marco Oliveira](http://github.com/marcomoa) -> [Download here](https://github.com/marcomoa/Gesior-AAC/archive/master.zip)
-
-by [Ricardo Souza](http://github.com/Riicksouza) -> [Download here](https://github.com/Riicksouzaa/TheRealGesiorFerobra/archive/master.zip)
-
-<h2>Contact</h2>
-
-Facebook: www.facebook.com/erick.nunes.75
-
-Skype: e_nunes@live.com
-
-[Whatsapp Invite](https://chat.whatsapp.com/JtKmezKYrw5DEK5Zl9qvPw)
-
-[Discord Channel](https://discord.gg/7dnCeau)
 
 <h2>Contributors</h2>
 Contributions of any kind are welcome!
